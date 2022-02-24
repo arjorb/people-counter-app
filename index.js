@@ -11,7 +11,8 @@ const increment = () => {
 const save = () =>{
     let previousSave = ` ${counter} - `;
     saveEl.innerText = saveEl.innerText + previousSave;
-    console.log(previousSave)
+    counter = 0;
+    counterHolder.textContent = counter;
 }
 
 
