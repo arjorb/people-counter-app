@@ -12,3 +12,5 @@ One of the content covered in this simple app:
 7. functions
 8. the DOM
 9. getElementById()
+10. innerText
+11. textContent
